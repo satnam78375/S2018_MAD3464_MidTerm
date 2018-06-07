@@ -11,9 +11,6 @@ package c738040midterm_mads3464;
  */
 public class ReverseStringp {
     static int i;
-static int j = 0;
-static int rev;
-
 static void reverse(String s){
     char ch[] = new char[s.length()];
     for(i = 0;i < s.length();i++){
