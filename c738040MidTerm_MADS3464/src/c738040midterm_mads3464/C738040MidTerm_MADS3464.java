@@ -5,10 +5,7 @@
  */
 package c738040midterm_mads3464;
 
-/**
- *
- * @author satnam
- */
+
 public class C738040MidTerm_MADS3464 {
 
     /**
@@ -16,6 +13,8 @@ public class C738040MidTerm_MADS3464 {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        ReverseStringp sat = new ReverseStringp();
+                sat.reverse("lambton");
     }
     
 }
