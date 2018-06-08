@@ -17,6 +17,9 @@ public class C738040MidTerm_MADS3464 {
                 sat.reverse("lambton");
                 System.out.println("\n"+Binarytodecimal .convert("1000"));
                 System.out.println(MaxOccurenceOfCharacter.mostFrequent("aaaabbbbccc"));
+                
+ System.out.println(SubString.replaceSubString("the dog jumped over the fence.", "the", "that"));
+        
     }
     
 }
