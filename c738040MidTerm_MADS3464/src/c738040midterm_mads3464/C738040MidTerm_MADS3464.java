@@ -15,6 +15,8 @@ public class C738040MidTerm_MADS3464 {
         // TODO code application logic here
         ReverseStringp sat = new ReverseStringp();
                 sat.reverse("lambton");
+                System.out.println("\n"+Binarytodecimal .convert("1000"));
+                System.out.println(MaxOccurenceOfCharacter.mostFrequent("aaaabbbbccc"));
     }
     
 }
